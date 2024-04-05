@@ -1,3 +1,5 @@
+import { Todo } from '../pages/todo';
+
 export default function App() {
-  return <div>App</div>;
+  return <Todo />;
 }
